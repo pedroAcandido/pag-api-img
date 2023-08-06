@@ -1,2 +1,2 @@
 # pag-api-img
-E uma pagina que eu com uma API de fotos com titulo.
+E uma pagina com uma API de fotos com titulo.
